@@ -1,16 +1,6 @@
 # Portfolio
 
-A modern, responsive full-stack developer portfolio built with React, Tailwind CSS, Vite, and Motion animations.
-
-## Features
-
-- 🎨 Modern UI with Tailwind CSS and shadcn/ui components
-- ⚡ Fast development with Vite
-- 🎬 Smooth animations with Motion library
-- 📱 Fully responsive design
-- 🔥 Live GitHub projects integration
-- ✉️ Contact form functionality
-- 📊 Showcase of skills and experience
+A modern, responsive full-stack developer portfolio
 
 ## Getting Started
 
